@@ -123,7 +123,7 @@ For the full declaration definitions, conformance layers, actor-option matrix, a
 - **HL7 FHIR R4/R5/R6** — Independently versioned processing payloads
 - **IHE ATNA / IUA** — Security, identity, authorization, audit
 - **SMART on FHIR Backend Services** — System-to-system authorization
-- **W3C PROV-O** — Provenance modeling
+- **W3C PROV-O** — Provenance modeling (To Be Confirmed)
 
 ## Payload Binding Framework
 
